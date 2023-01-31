@@ -4,7 +4,7 @@ public class Recursion {
         
         // Remove letters (30 pts)
 
-        // Infullnameuctions (Important!)
+        // Instructions (Important!)
 
         // Without using arrays or loops or regular expressions, apply recursion to remove specific letters in
         // your full name.
@@ -25,7 +25,7 @@ public class Recursion {
 
         // Put your complete name in the "fullName" variable.
         // Example:
-        // fullnameing fullName = "elizer ponio jr";
+        // String fullName = "elizer ponio jr";
 
         String fullname = "katherine maegan espinosa";		
 	
